@@ -1,10 +1,8 @@
 <module type="ActionForm" version="05.17.07.00">
-    <contentKey />
     <moduleID>432</moduleID>
     <alignment />
     <alltabs>false</alltabs>
     <border />
-    <cachemethod />
     <cachetime>0</cachetime>
     <color />
     <containersrc />
@@ -19,9 +17,8 @@
     <modulepermissions />
     <title>Update </title>
     <startdate>0001-01-01T00:00:00</startdate>
-    <uniqueId>21ae00eb-3148-4198-92c7-c2b3d3a04edf</uniqueId>
+    <uniqueId>a1ae3949-0a12-4f69-8390-e7e7e3def0c6</uniqueId>
     <visibility>Maximized</visibility>
-    <cultureCode />
     <modulesettings />
     <tabmodulesettings />
     <definition>Action Form</definition>
