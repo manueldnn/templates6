@@ -1,5 +1,4 @@
 <module type="ActionGrid" version="05.17.04.00">
-    <contentKey />
     <moduleID>430</moduleID>
     <alignment />
     <alltabs>false</alltabs>
@@ -26,7 +25,7 @@
     </modulepermissions>
     <title>avt.ActionGrid</title>
     <startdate>0001-01-01T00:00:00</startdate>
-    <uniqueId>65a1bd7c-79eb-4bbd-81d5-a84d8f6d8126</uniqueId>
+    <uniqueId>18ad69c5-4da5-4f1e-9d27-42efe0137b5c</uniqueId>
     <visibility>Maximized</visibility>
     <cultureCode />
     <modulesettings />
