@@ -1,8 +1,10 @@
 <module type="ActionForm" version="05.17.07.00">
+    <contentKey />
     <moduleID>431</moduleID>
     <alignment />
     <alltabs>false</alltabs>
     <border />
+    <cachemethod />
     <cachetime>0</cachetime>
     <color />
     <containersrc />
@@ -17,8 +19,9 @@
     <modulepermissions />
     <title>Create </title>
     <startdate>0001-01-01T00:00:00</startdate>
-    <uniqueId>729ecc84-dcdc-401c-ab50-d05b76e41ca4</uniqueId>
+    <uniqueId>5e4a81de-e0ba-4e34-90c4-5b8cd1f93952</uniqueId>
     <visibility>Maximized</visibility>
+    <cultureCode />
     <modulesettings />
     <tabmodulesettings />
     <definition>Action Form</definition>
