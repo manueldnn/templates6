@@ -1,4 +1,5 @@
 <module type="ActionForm" version="05.17.07.00">
+    <contentKey />
     <moduleID>428</moduleID>
     <alignment />
     <alltabs>false</alltabs>
@@ -25,7 +26,7 @@
     </modulepermissions>
     <title>avt.Action Form</title>
     <startdate>0001-01-01T00:00:00</startdate>
-    <uniqueId>422ca622-a68f-46e6-a287-2fbf1ff99342</uniqueId>
+    <uniqueId>b55b881b-47e7-421c-a3f5-7a5b1927ef36</uniqueId>
     <visibility>Maximized</visibility>
     <cultureCode />
     <modulesettings />
